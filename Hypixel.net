@@ -1438,24 +1438,6 @@
 [13:11:42] [pool-13-thread-1/INFO]: 1438 43f3d59313a94da19b407b4abd67e487 = D1v
 [13:11:42] [pool-13-thread-1/INFO]: 1439 44024b099af14c8890d829ce5ed9da16 = Illuminati_Haxz
 [13:11:43] [pool-13-thread-1/INFO]: 1440 4410b6aadad44277aaf0c9169d954b08 = Horizonos
-[13:11:43] [pool-13-thread-1/WARN]: Unexpected character (F) at position 0.
-[13:11:43] [pool-13-thread-1/WARN]: 	at org.json.simple.parser.Yylex.yylex(Yylex.java:610)
-[13:11:43] [pool-13-thread-1/WARN]: 	at org.json.simple.parser.JSONParser.nextToken(JSONParser.java:269)
-[13:11:43] [pool-13-thread-1/WARN]: 	at org.json.simple.parser.JSONParser.parse(JSONParser.java:118)
-[13:11:43] [pool-13-thread-1/WARN]: 	at org.json.simple.parser.JSONParser.parse(JSONParser.java:81)
-[13:11:43] [pool-13-thread-1/WARN]: 	at org.json.simple.parser.JSONParser.parse(JSONParser.java:75)
-[13:11:43] [pool-13-thread-1/WARN]: 	at com.btk5h.skriptjson.skript.EffJSONToVariable.execute(EffJSONToVariable.java:71)
-[13:11:43] [pool-13-thread-1/WARN]: 	at ch.njol.skript.lang.Effect.run(Effect.java:54)
-[13:11:43] [pool-13-thread-1/WARN]: 	at ch.njol.skript.lang.TriggerItem.walk(TriggerItem.java:65)
-[13:11:43] [pool-13-thread-1/WARN]: 	at ch.njol.skript.lang.TriggerItem.walk(TriggerItem.java:93)
-[13:11:43] [pool-13-thread-1/WARN]: 	at com.btk5h.reqn.skript.EffRequest.lambda$execute$2(EffRequest.java:119)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.CompletableFuture.uniWhenComplete(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[13:11:43] [pool-13-thread-1/WARN]: 	at java.lang.Thread.run(Unknown Source)
 [13:11:43] [pool-13-thread-1/INFO]: 1441 4410b6aadad44277aaf0c9169d954b08 = Horizonos
 [13:11:44] [pool-13-thread-1/INFO]: 1442 4415f405fdf943358c4b7d8d1be18a87 = Crops
 [13:11:44] [pool-13-thread-1/INFO]: 1443 441bc3a03f92472e8417b66591b1fd92 = Greckooo
